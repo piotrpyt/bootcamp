@@ -1,0 +1,14 @@
+C:\Users\ppyt\source\repos\bootcamp\bin\Debug\net6.0\bootcamp.exe
+C:\Users\ppyt\source\repos\bootcamp\bin\Debug\net6.0\bootcamp.deps.json
+C:\Users\ppyt\source\repos\bootcamp\bin\Debug\net6.0\bootcamp.runtimeconfig.json
+C:\Users\ppyt\source\repos\bootcamp\bin\Debug\net6.0\bootcamp.dll
+C:\Users\ppyt\source\repos\bootcamp\bin\Debug\net6.0\bootcamp.pdb
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.AssemblyInfoInputs.cache
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.AssemblyInfo.cs
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.dll
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\refint\bootcamp.dll
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.pdb
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\bootcamp.genruntimeconfig.cache
+C:\Users\ppyt\source\repos\bootcamp\obj\Debug\net6.0\ref\bootcamp.dll
